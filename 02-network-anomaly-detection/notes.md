@@ -11,5 +11,6 @@ Understand Wireshark's interface and key features for network traffic analysis.
 
 ### Screenshots
 **Figure 1.** Wireshark interface showing the available network interfaces and main navigation components.
-![Wireshark Interface](images/Wireshark Interface.png)
+![Wireshark Interface](images/wireshark-interface.png)
+
 
